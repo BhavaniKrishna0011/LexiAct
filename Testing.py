@@ -30,7 +30,7 @@ def logIn(username, password,url,user_name_id,password_id,queue):
     #     try:
             # username = "BhavaniKrishna0011"
             # email = "sumith143@gmail.com"
-            # password = "Dotan@110714458"
+            # password = "password"
     #         username_field = driver.find_element(By.ID,'login_field')
     #         username_field.send_keys(username)
     #         time.sleep(1)
